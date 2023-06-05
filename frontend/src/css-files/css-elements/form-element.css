@@ -1,0 +1,22 @@
+.form-container{
+    max-width: 70%;
+    margin: 2rem auto;
+}
+
+.border-view{
+    border: 1px solid #068DA9;
+}
+
+.form-container input:focus,
+.form-container textarea:focus{
+  outline: none;
+  box-shadow: none;
+  border: 1px solid #068DA9;
+}
+
+.form-container button:hover{
+    background-color: white;
+    color: #068DA9;
+    border: 3px solid #068DA9;
+}
+

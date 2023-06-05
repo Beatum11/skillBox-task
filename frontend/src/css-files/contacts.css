@@ -1,0 +1,32 @@
+.contacts-container{
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin: 2rem auto;
+    padding: 0.5rem 2rem;
+}
+
+.contacts-left-part{
+    font-size: 1.2rem;
+    text-align: center;
+}
+
+.socials{
+    list-style: none;
+    display: flex;
+    justify-content: flex-start;
+    gap: 1rem;
+}
+
+.socials img{
+    max-width: 3rem;
+    object-fit: cover;
+}
+
+.contacts-img{
+    min-width: 10rem;
+    max-width: 40rem;
+    object-fit: cover;
+}
+

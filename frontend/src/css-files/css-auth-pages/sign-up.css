@@ -1,0 +1,13 @@
+.signUp-container{
+    max-width: 60%;
+}
+
+.signUp-button{
+    border: none;
+    background-color: #068DA9;
+}
+
+.signUp-button:hover{
+    background-color: white;
+    color: #068DA9;
+}

@@ -1,0 +1,23 @@
+.footer-container{
+    display: flex;
+    align-items: center;
+    height: 10vh;
+    justify-content: space-evenly;
+    padding: 1rem 1rem;
+    flex-wrap: wrap;
+}
+
+.footer-container ul{
+    display: flex;
+    gap: 1rem;
+    list-style: none;
+}
+
+.footer-container li{
+    font-weight: bold;
+    color: #068DA9
+}
+
+.footer-container li:hover{
+    cursor: pointer;
+}

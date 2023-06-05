@@ -1,0 +1,13 @@
+.side-padding{
+    padding: 5px 30px;
+}
+
+.menu-button{
+    border: none;
+    background-color: #068DA9;
+}
+
+.menu-button:hover{
+    background-color: white;
+    color: #068DA9;
+}

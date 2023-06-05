@@ -1,0 +1,11 @@
+.adminPanel-table{
+    text-align: center;
+}
+
+.adminPanel-table th {
+    padding-right: 2rem;
+}
+
+.adminPanel-table td {
+    padding-right: 2rem;
+}

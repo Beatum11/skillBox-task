@@ -1,0 +1,21 @@
+.openBlog-container{
+    padding: 0 2rem;
+}
+
+.openBlog-right{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    gap: 1rem;
+    justify-content: space-around;
+}
+
+.openBlog-right img{
+    max-width: 90%;
+    max-height: 20rem;
+    object-fit: cover;
+}
+
+.openBlog-right p{
+    max-width: 30rem;
+}

@@ -1,0 +1,12 @@
+.application-container{
+    margin: 1rem auto;
+    min-width: 60%;
+}
+
+.application-container ul{
+    display: flex;
+    flex-wrap: wrap;
+    list-style: none;
+    padding: 1rem;
+    gap: 2rem;
+}

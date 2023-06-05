@@ -1,0 +1,22 @@
+.openProject-container{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    margin: 4rem auto;
+    max-width: 70%;
+}
+
+.openProject-upper-part{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.openProject-container img{
+    max-width: 30%;
+}
+
+.openProject-lower-part p{
+    margin: 2rem auto;
+    max-width: 70%;
+}

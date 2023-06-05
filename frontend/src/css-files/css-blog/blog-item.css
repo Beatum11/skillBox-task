@@ -1,0 +1,29 @@
+.blogItem-container{
+    display: flex;
+    gap: 0.5rem;
+    max-width: 25rem;
+    flex-direction: column;
+    padding: 1rem;
+}
+
+.blogItem-date{
+    color: grey;
+}
+.blogItem-container img{
+    max-width: 90%;
+    max-height: 12rem;
+    object-fit: cover;
+}
+
+.blogItem-container button{
+    border: none;
+    background-color: #068DA9;
+    color: #ECF8F9;
+    max-width: 30%;
+}
+
+.blogItem-container button:hover{
+   background-color: #ECF8F9; 
+   border: 1px solid #068DA9;
+   color: #068DA9;
+}
